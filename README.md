@@ -74,4 +74,3 @@ The conclusion of this project will depend on the final results, but here's a ge
 
 -Overall Impact: Summarize the project's contribution. This could involve creating a valuable tool for informed decision-making, providing insights into horse racing, or potentially laying the groundwork for further advancements in race prediction.
 
-    By effectively addressing these points, the conclusion will provide a clear picture of the project's achievements and potential applications.
